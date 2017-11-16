@@ -117,3 +117,20 @@
 #result {
 	display: none
 }
+
+.imgMax {
+	width: 100%;
+}
+
+#map {
+height: 400px;
+width: 100%;
+}
+
+#login {
+	margin-bottom: 0px !important;
+}
+
+#login input, button{
+	margin-left: 5px;
+}
