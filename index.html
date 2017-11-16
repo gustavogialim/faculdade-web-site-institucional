@@ -13,10 +13,11 @@
 		<link rel="stylesheet" href="css/bootstrap-social.css">
 		<link rel="stylesheet" href="css/styles.css">
 		
+		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="author" content="Gustavo Gialim">
-		<meta name="description" content="Monstros - Saiu de casa e comeu pra caramba? Ent„o aqui È seu lugar!">
-	  <meta name="keywords" content="monstros, fitness, malhar, musculaÁ„o">
+		<meta name="description" content="Monstros - Saiu de casa e comeu pra caramba? EntÔøΩo aqui ÔøΩ seu lugar!">
+	  <meta name="keywords" content="monstros, fitness, malhar, musculaÔøΩÔøΩo">
 	</head>
 	<body>
 		<div class="container-fluid">
@@ -94,12 +95,12 @@
 			</div>
 			<!-- Fim - Carrousel -->
 			
-			<!-- ServiÁos -->
+			<!-- ServiÔøΩos -->
 			<div id="servicos" class="row">
 				<div class="col-md-12">
 					<div class="row">
 						<div class="col-md-12">
-							<h2 class="title-h2"> Nossos ServiÁos </h2>
+							<h2 class="title-h2"> Nossos Servi√ßos </h2>
 							<hr/>
 						</div>
 					</div>
@@ -108,7 +109,7 @@
 							<div class="card">
 							  <img class="card-img-top" src="imgs/musculacao.jpg" alt="Card image cap">
 							  <div class="card-body">
-								<h4 class="card-title">MusculaÁ„o</h4>
+								<h4 class="card-title">Muscula√ß√£o</h4>
 								<p class="card-text">Os melhores equipamentos para deixar de ser um frango.</p>
 								<a href="#" class="btn btn-primary">Saiba Mais</a>
 							  </div>
@@ -131,7 +132,7 @@
 							  <img class="card-img-top" src="imgs/pilates.jpg" alt="Card image cap">
 							  <div class="card-body">
 								<h4 class="card-title">Pilates</h4>
-								<p class="card-text">Sinta seu corpo virar um el·stico com nossos exercÌcios.</p>
+								<p class="card-text">Sinta seu corpo virar um el√°stico com nossos exerc√≠cios.</p>
 								<a href="#" class="btn btn-primary">Saiba Mais</a>
 							  </div>
 							</div>
@@ -142,7 +143,7 @@
 							  <img class="card-img-top" src="imgs/ducha.jpg" alt="Card image cap">
 							  <div class="card-body">
 								<h4 class="card-title">Ducha</h4>
-								<p class="card-text">Tome um banho para n„o sair na rua fedido apÛs puxar muitos ferros.</p>
+								<p class="card-text">Tome um banho para n√£o sair na rua fedido ap√≥s puxar muitos ferros.</p>
 								<a href="#" class="btn btn-primary">Saiba Mais</a>
 							  </div>
 							</div>
@@ -151,9 +152,83 @@
 				</div>
 				
 			</div>
-			<!-- Fim - ServiÁos -->
+			<!-- Fim - ServiÔøΩos -->
 			
-			<!-- RodapÈ -->
+			<!-- IMC -->
+			<div id="imc" class="row">
+				<div class="col-md-12">
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="title-h2"> Calcule seu IMC </h2>
+							<hr/>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<form name="imc" id="imc">
+								<div class="form-group">
+									<label for="peso">Peso</label>
+									<input type="text" class="form-control" name="peso" id="peso" placeholder="Peso">
+								</div>
+								<div class="form-group">
+									<label for="altura">Altura</label>
+									<input type="text" class="form-control" name="altura" id="altura" placeholder="Altura">
+								</div>
+								<a href="#imc" class="btn btn-primary" onclick="calcularIMC()">Calcular</a>
+							</form>
+
+							<div id="result" class="alert alert-success" role="alert">
+								<strong>Calculado!</strong> Seu IMC √© 18, confira a tabela ao lado para saber sua situa√ß√£o!
+							</div>
+						</div>
+						
+						<div class="col-md-6">
+								<table class="table"> 
+										<thead> 
+											<tr> 
+												<th>Resultado</th> 
+												<th>Situa√ß√£o</th> 
+											</tr> 
+										</thead> 
+										<tbody> 
+											<tr id="imcOption1"> 
+												<td>Abaixo de 17</td> 
+												<td>Muito abaixo do <em>peso</em></td> 
+											</tr> 
+											<tr id="imcOption2"> 
+												<td>Entre 17 e 18,49</td> 
+												<td>Abaixo do <em>peso</em></td> 
+											</tr> 
+											<tr id="imcOption3"> 
+												<td>Entre 18,5 e 24,99</td> 
+												<td><em>Peso</em> normal</td> 
+											</tr> 
+											<tr id="imcOption4"> 
+												<td>Entre 25 e 29,99</td> 
+												<td>Acima do <em>peso</em></td> 
+											</tr> 
+											<tr id="imcOption5"> 
+												<td>Entre 30 e 34,99</td> 
+												<td><em>Obesidade</em> I</td> 
+											</tr> 
+											<tr id="imcOption6"> 
+												<td>Entre 35 e 39,99</td> 
+												<td><em>Obesidade</em> II (severa)</td> 
+											</tr> 
+											<tr id="imcOption7"> 
+												<td>Acima de 40</td> 
+												<td><em>Obesidade</em> III (m√≥rbida)</td> 
+											</tr> 
+										</tbody> 
+									</table>
+						</div>
+				</div>
+			</div>
+				
+			</div>
+			<!-- Fim - IMC -->
+			
+			<!-- RodapÔøΩ -->
 			<div id="rodape" class="row">
 				<div class="col-md-12">
 					
@@ -170,7 +245,7 @@
 								<div id="socials" class="col-md-12">
 									<div class="socialsBtn">
 										<a href="https://www.facebook.com" class="btn btn-block btn-social btn-facebook">
-											<span class="fa fa-facebook"></span> P·gina no Facebook
+											<span class="fa fa-facebook"></span> P√°gina no Facebook
 										</a>
 										
 										<a href="https://www.google.com.br" class="btn btn-block btn-social btn-google">
@@ -215,7 +290,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- Fim - RodapÈ -->
+			<!-- Fim - RodapÔøΩ -->
 			
 		</div>
 	</body>

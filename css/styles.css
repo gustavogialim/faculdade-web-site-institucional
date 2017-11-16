@@ -109,3 +109,11 @@
 .card-text {
 	padding:10px;
 }
+
+#imc {
+	margin-top:10px;
+}
+
+#result {
+	display: none
+}
