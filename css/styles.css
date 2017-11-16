@@ -30,6 +30,10 @@
 	margin-top:5px;
 }
 
+.card {
+	margin-bottom:5px;
+}
+
 @media screen and (max-device-width: 600px) {
 	.card {
 		margin-bottom:5px;
@@ -100,4 +104,8 @@
 
 .navHistory {
 	margin-top:10px;
+}
+
+.card-text {
+	padding:10px;
 }
