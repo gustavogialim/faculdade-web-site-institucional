@@ -80,26 +80,23 @@
 							<div class="col-md-7">
 								<div class="card">
 									<div class="card-block">
-									<p class="card-text">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-										e vem sendo utilizado desde o século XVI,
-										quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
-										Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, 
-										permanecendo essencialmente inalterado.
-										Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-										e vem sendo utilizado desde o século XVI,
-										quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
-										Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, 
-										permanecendo essencialmente inalterado.
-										Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-										e vem sendo utilizado desde o século XVI,
-										quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
-										Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, 
-										permanecendo essencialmente inalterado.
-										Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-										e vem sendo utilizado desde o século XVI,
-										quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
-										Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, 
-										permanecendo essencialmente inalterado.</p>
+									<p class="card-text">
+										Tudo começou em 1980 na garagem da minha casa, lá foi a minha primeira academia eu e meus amigos fizemos uma academia lá daí nós treinava depois da escola, 
+										 lá não tinha muita coisa mais era legal a nossa academia na garagem.
+										Passou um tempo lá em 19805 eu tinha acabado de terminar o colegial eu pensei, 
+										o que eu vou fazer com a minha vida, então eu resolvi fazer faculdade comecei a minha faculdade de educação física porque eu adorar educação física na escola, 
+										então comecei foi difícil no começo porque não sabia que educação física era difícil assim, mais eu não desisti, falei para mim mesmo vou até o fim.
+										Anos depois eu tinha terminado a minha faculdade levei três anos e agora, eu to com o meu diploma na mão e pensando no próximo passo, 
+										e agora o meu passo e volta para a minha cidade e abrir uma academia, então eu fui lá. Chegando na minha cidade lá nem tem muitas academia então para mim seria uma blz, 
+										eu fui ver meus amigos para ver se eles gostarão da minha Idea se eles  me ajudam a abrir.
+										O dia foi passando, e minha academia foi criando vida eu e meus amigos tavão abrindo uma, eu estava comprando vários equipamentos, 
+										porque eu sou de uma família de médicos então sou bem rico, minha família não aceitou eu ter feito faculdade de física, mais elas me deram dinheiro para mim começar com o meu sonho.
+										Então essa e minha história de como comecei com a minha academia agora eu tenho minhas academia em todo mundo quase e ela e muito famosa, com ajuda de meus amigos e família, 
+										então venha você também fazer parte da nossa família da nossa academia vamos todos ser Fitness. 
+										Espero que tenha gostado da minha academia e se gostou pode já se cadastrar o primeiro mês e de graça então vai ali se cadastrar e fazer parte da nossa família. 
+										</br></br>
+										Meu nome é Fernando tenho 37 anos e eu sou a universal!
+									</p>
 									</div>
 								</div>
 							</div>
