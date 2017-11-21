@@ -25,7 +25,7 @@
 			<div id="nav" class="row">
 				<div class="col-md-12">
 					<nav class="navbar navbar-expand-lg navbar-light bg-light">
-					  <a class="navbar-brand text-nav" href="index.html">
+					  <a class="navbar-brand text-nav" href="index.php">
 						<img src="imgs/logo.png" width="43" height="40" class="d-inline-block align-top" alt="">
 						Monstros
 					  </a>
@@ -36,19 +36,19 @@
 					  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav mr-auto">
 						  <li class="nav-item nav-link-extra">
-							<a class="nav-link" href="index.html">Home</a>
+							<a class="nav-link" href="index.php">Home</a>
 						  </li>
 						  <li class="nav-item active nav-link-extra">
-							<a class="nav-link" href="planos.html">Planos <span class="sr-only">(atual)</span></a>
+							<a class="nav-link" href="planos.php">Planos <span class="sr-only">(atual)</span></a>
 						  </li>
 						  <li class="nav-item nav-link-extra">
-							<a class="nav-link" href="depoimentos.html">Depoimentos</a>
+							<a class="nav-link" href="depoimentos.php">Depoimentos</a>
 						  </li>
 						  <li class="nav-item nav-link-extra">
-							<a class="nav-link" href="contato.html">Contato</a>
+							<a class="nav-link" href="contato.php">Contato</a>
 						  </li>
 						  <li class="nav-item nav-link-extra">
-							<a class="nav-link" href="sobre.html">Sobre</a>
+							<a class="nav-link" href="sobre.php">Sobre</a>
 						  </li>
 						</ul>
 					  </div>
@@ -62,7 +62,7 @@
 				<div class="col-md-12">
 					<nav aria-label="breadcrumb" role="navigation">
 					  <ol class="breadcrumb">
-						<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+						<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 						<li class="breadcrumb-item active" aria-current="page">Musculação</li>
 					  </ol>
 					</nav>
