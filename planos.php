@@ -69,6 +69,98 @@
 				</div>
 			</div>
 			<!-- Fim - NavBar History -->
+			
+			<!-- Planos -->
+			<div id="planos" class="row">
+				<div class="col-md-12">
+					
+					<div class="row">
+						<div class="col-md-2">
+
+						</div>
+						<div class="col-md-2">
+							<div class="card">
+								<div class="planoItem">
+									<p class="text-center">70R$</p>
+								</div>
+							  <div class="card-block">
+								<p class="card-text">Plano Básico, útil para quem tá começando e tá sem grana</p>
+							  </div>
+							  <ul class="list-group list-group-flush">
+								<li class="list-group-item">Musculação</li>
+								<li class="list-group-item">Orientador</li>
+								<li class="list-group-item">Tomar uma água</li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="col-md-2">
+							<div class="card">
+								<div class="planoItem">
+									<p class="text-center">90R$</p>
+								</div>
+							  <div class="card-block">
+								<p class="card-text">Plano Médio, esse é pra quem já tá ficando monstro</p>
+							  </div>
+							  <ul class="list-group list-group-flush">
+								<li class="list-group-item">Ducha</li>
+								<li class="list-group-item">Açai de Graça</li>
+								<li class="list-group-item">Esteira</li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="col-md-2">
+							<div class="card">
+								<div class="planoItem">
+									<p class="text-center">110R$</p>
+								</div>
+							  <div class="card-block">
+								<p class="card-text">Plano Avançado, dedicado aos monstros</p>
+							  </div>
+							  <ul class="list-group list-group-flush">
+								<li class="list-group-item">Whay de Graça</li>
+								<li class="list-group-item">Foto com o BanBan</li>
+								<li class="list-group-item">Crossfit</li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="col-md-2">
+							<div class="card">
+								<div class="planoItem">
+									<p class="text-center">150R$</p>
+								</div>
+							  <div class="card-block">
+								<p class="card-text">Plano Fodástico, para os não humanos</p>
+							  </div>
+							  <ul class="list-group list-group-flush">
+								<li class="list-group-item">Pilates</li>
+								<li class="list-group-item">Foto com Leo Stronda</li>
+								<li class="list-group-item">Sala de cochilo</li>
+							  </ul>
+							</div>
+						</div>
+						
+						<div class="col-md-2">
+
+						</div>
+						
+					</div>
+					<div class="row">
+						<div class="col-md-2">
+
+						</div>
+						<div class="col-md-8">
+							<img class="img-fluid" src="imgs/banner_01.png">
+						</div>
+						<div class="col-md-2">
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Fim - Planos -->
 				
 		</div>
 	</body>

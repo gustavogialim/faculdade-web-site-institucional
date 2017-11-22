@@ -245,19 +245,19 @@
 
 			<!-- Frango -->
 			<div class="row">
-					<div class="col-md-12">
-							<div class="jumbotron">
-								<h1 class="display-3">Jamais Frango!</h1>
-								<p class="lead">Jamais volte a ser frango esse é o nosso lema. Seu corpo chegará ao seu pontencial máximo.</p>
-								<hr class="m-y-2">
-								<p>Saiba mais sobre nossa academia e venha logo pra cá.</p>
-								<p class="lead">
-									<a class="btn btn-success btn-lg" href="sobre.php" role="button">Saiba mais</a>
-								</p>
-							</div>
-					</div>
+				<div class="col-md-12">
+						<div class="jumbotron">
+							<h1 class="display-3">Jamais Frango!</h1>
+							<p class="lead">Jamais volte a ser frango esse é o nosso lema. Seu corpo chegará ao seu pontencial máximo.</p>
+							<hr class="m-y-2">
+							<p>Saiba mais sobre nossa academia e venha logo pra cá.</p>
+							<p class="lead">
+								<a class="btn btn-success btn-lg" href="sobre.php" role="button">Saiba mais</a>
+							</p>
+						</div>
 				</div>
-				<!-- Fim - Frango -->
+			</div>
+			<!-- Fim - Frango -->
 
 			<!-- Rodap� -->
 			<div id="rodape" class="row">
@@ -268,10 +268,13 @@
 						<div class="col-md-6 social-buttons">
 							<div class="row">
 								<div class="col-md-12">
-									<h2 class="title-h2 text-center"> Redes Sociais </h2>
+									<!-- <h2 class="title-h2 text-center"> Redes Sociais </h2> -->
+									<img src="imgs/logo.png" width="43" height="40" class="d-inline-block align-top" alt="">
+									<p class="white">© 2017 - 2017 | Monstros - Todos os direitos reservados</p>
 									<hr>
 								</div>
 							</div>
+							<!--
 							<div class="row">
 								<div id="socials" class="col-md-12">
 									<div class="socialsBtn">
@@ -293,6 +296,7 @@
 									</div>
 								</div>
 							</div>
+							-->
 						</div>
 						<!-- Fim - Redes Sociais -->
 						
@@ -300,10 +304,15 @@
 							<div class="col-md-6">
 								<div class="row">
 									<div class="col-md-12">
-										<h2 class="title-h2 text-center"> Desenvolvedores </h2>
-										<hr>
+										<a href="https://www.facebook.com" class="btn btn-block btn-social btn-facebook">
+											<span class="fa fa-facebook"></span> Página no Facebook
+										</a>
+										<a href="https://www.twitter.com" class="btn btn-block btn-social btn-twitter">
+											<span class="fa fa-twitter"></span> Siga-nos no Twitter
+										</a>
 									</div>
 								</div>
+								<!--
 								<div class="row">
 									<div id="developers" class="col-md-12">
 										<div class="developersContent">
@@ -316,6 +325,7 @@
 										</div>
 									</div>
 								</div>
+								-->
 							</div>
 						
 					</div>
